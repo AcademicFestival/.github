@@ -1,12 +1,9 @@
-## Hi there 👋
+# Write Now
 
-<!--
+![스크린샷 2024-10-05 오후 5 48 44](https://github.com/user-attachments/assets/075527ee-5f1e-406f-b20f-90e1ad3830cc)
 
-**Here are some ideas to get you started:**
+![스크린샷 2024-10-05 오후 5 49 05](https://github.com/user-attachments/assets/174817b3-86aa-4955-aee0-e273bb3a7703)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+![스크린샷 2024-10-05 오후 5 49 28](https://github.com/user-attachments/assets/95b2ac6b-2d67-403b-ac7b-6b41df8a642e)
+
